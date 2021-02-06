@@ -19,7 +19,7 @@
 ### Web Scraping F1 race results and exploring Snowflake
 
 [Web Scraping F1 Race results and exploring Snowflake](/F1-WebScraping-SnowflakeDB)
-<img src="images/bandicam 2021-02-06 13-42-34-474.jpg>
+<img src="images/bandicam 2021-02-06 13-42-34-474.jpg"/>
 
 ---
 

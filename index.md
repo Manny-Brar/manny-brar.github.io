@@ -2,14 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Real-Time News Sentiment Analysis Pipeline on GCP
 
 [Real-Time News Sentiment Analysis](/Real-Time-News-Sentiment-Analysis-Pipeline-GCP)
-<img src="images/bandicam 2021-01-16 18-53-04-542.jpg"/>
+<img src="bandicam 2021-01-26 17-25-43-560.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/20171228_113147 (1).jpg"/>
+
+### Sales profit predictions with Prophet
+
+[Sales Profit Predictions with Prophet](/Retail-Sales-EDA---profit-prediction-GCP)
+<img src="bandicam%202021-01-26%2016-24-27-400.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)

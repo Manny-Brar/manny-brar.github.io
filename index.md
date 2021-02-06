@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Real-Time News Sentiment Analysis](/Real-Time-News-Sentiment-Analysis-Pipeline-GCP)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bandicam 2021-01-16 18-53-04-542.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

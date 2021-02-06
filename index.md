@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/bandicam 2021-01-16 18-53-04-542.jpg"/>
+<img src="images/20171228_113147 (1).jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)

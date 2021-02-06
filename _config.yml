@@ -5,9 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   data science, statistics, and distributed systems. This is something I am genuinely passionate
   and excited about. I am a very analytical individual and genuinely enjoy exploring and making 
   sense of data and finding new and innovative ways to utilize data. 
+  
   <br><br>
   
   <a href="https://www.linkedin.com/in/manny-brar-analytics/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -30,8 +30,8 @@ I completed all the web scraping and data cleaning utilizing python and Beautifu
 Who are the customers? Which Stations are the busiest? What days have the most rentals?
 These are the question I was trying to address when exploring the bike share dataset.
 
-[Web Scraping F1 Race results and exploring Snowflake](https://github.com/Manny-Brar/Dashboard-SanFran-Bikeshare-Rental-Demographics-Tableau)
-<img src="images/bandicam 2021-02-06 13-41-58-874.jpg"/>
+[Bike Share Dashboard Exploring Rental Demographics with Tableau](https://github.com/Manny-Brar/Dashboard-SanFran-Bikeshare-Rental-Demographics-Tableau)
+<img src="images/bandicam 2021-02-06 16-05-27-005.jpg"/>
 
 
 ---

@@ -5,7 +5,7 @@
 ### Real-Time News Sentiment Analysis Pipeline on GCP
 With all the negativity in news headlines recently, it can be a real strain on mental health when you are constantly bombarded with negative news articles and headlines. This project was intended to assist, when you just need a break from negative news articles and want to filter news by positive, neutral or negative sentiment. This was the problem I wanted to create a solution for and by developing a pipeline that performs real-time sentiment analysis on news articles and allows for the user to filter results based on positive or negative sentiment of each article.
 
-[Real-Time News Sentiment Analysis](/Real-Time-News-Sentiment-Analysis-Pipeline-GCP)
+[Real-Time News Sentiment Analysis](https://github.com/Manny-Brar/Real-Time-News-Sentiment-Analysis-Pipeline-GCP)
 <img src="images/bandicam 2021-01-26 17-25-43-560.jpg"/>
 
 ---
@@ -13,7 +13,7 @@ With all the negativity in news headlines recently, it can be a real strain on m
 ### Sales profit forecasting with Prophet model
 The objective of this project is to determine the ‘health’ of all 3 product categories in this dataset. We want to understand and capture trends & seasonality, but also predict profits for each category for the next couple years. While doing so, I will explore some of the best models and statistical methods to work with and make predictions with time-series data.
 
-[Sales Profit Predictions with Prophet](/Retail-Sales-EDA---profit-prediction-GCP)
+[Sales Profit Predictions with Prophet](https://github.com/Manny-Brar/F1-WebScraping-SnowflakeDB)
 <img src="images/bandicam 2021-02-06 15-59-19-940.jpg"/>
 
 ---
@@ -26,6 +26,12 @@ I completed all the web scraping and data cleaning utilizing python and Beautifu
 
 ---
 
+### San Francisco Bike Share Rental Demographics Dashboard with Tableau
+Who are the customers? Which Stations are the busiest? What days have the most rentals?
+These are the question I was trying to address when exploring the bike share dataset.
+
+[Web Scraping F1 Race results and exploring Snowflake](https://github.com/Manny-Brar/Dashboard-SanFran-Bikeshare-Rental-Demographics-Tableau)
+<img src="images/bandicam 2021-02-06 13-41-58-874.jpg"/>
 
 
 ---

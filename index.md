@@ -13,7 +13,7 @@ With all the negativity in news headlines recently, it can be a real strain on m
 ### Sales profit forecasting with Prophet model
 The objective of this project is to determine the ‘health’ of all 3 product categories in this dataset. We want to understand and capture trends & seasonality, but also predict profits for each category for the next couple years. While doing so, I will explore some of the best models and statistical methods to work with and make predictions with time-series data.
 
-[Sales Profit Predictions with Prophet](Manny-Brar/F1-WebScraping-SnowflakeDB)
+[Sales Profit Predictions with Prophet](images/Superstore_ML.pdf)
 <img src="images/bandicam 2021-02-06 15-59-19-940.jpg"/>
 
 ---

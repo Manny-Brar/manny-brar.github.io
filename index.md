@@ -1,11 +1,11 @@
-## Projects
+# Projects
 
 ---
 
 ### Real-Time News Sentiment Analysis Pipeline on GCP
 With all the negativity in news headlines recently, it can be a real strain on mental health when you are constantly bombarded with negative news articles and headlines. This project was intended to assist, when you just need a break from negative news articles and want to filter news by positive, neutral or negative sentiment. This was the problem I wanted to create a solution for and by developing a pipeline that performs real-time sentiment analysis on news articles and allows for the user to filter results based on positive or negative sentiment of each article.
 
-[Real-Time News Sentiment Analysis](Manny-Brar/Real-Time-News-Sentiment-Analysis-Pipeline-GCP)
+[Real-Time News Sentiment Analysis](github.com/Manny-Brar/Real-Time-News-Sentiment-Analysis-Pipeline-GCP)
 <img src="images/bandicam 2021-01-26 17-25-43-560.jpg"/>
 
 ---
@@ -36,7 +36,12 @@ These are the question I was trying to address when exploring the bike share dat
 
 ---
 
+### San Francisco Bike Share Rental Demographics Dashboard with Tableau
+Who are the customers? Which Stations are the busiest? What days have the most rentals?
+These are the question I was trying to address when exploring the bike share dataset.
 
+[Bike Share Dashboard Exploring Rental Demographics with Tableau](Manny-Brar/Dashboard-SanFran-Bikeshare-Rental-Demographics-Tableau)
+<img src="images/bandicam 2021-02-06 16-05-27-005.jpg"/>
 
 
 ---

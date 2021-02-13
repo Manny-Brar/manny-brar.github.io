@@ -10,6 +10,15 @@ With all the negativity in news headlines recently, it can be a real strain on m
 
 ---
 
+### Udacity Data Engineering Nanodegree Projects with AWS, Spark & Airflow
+This is a collection of projects that were part of the Udacity Data Engineering Nanodegree program. These projects are completed in relation to a mock start-up called ‘Sparkify’. Sparkify is a music streaming application that wants to start analyzing their songs, song plays and user data. So using modern data engineering tools I built 4 projects to assist Sparkify in accomplishing it’s goals.
+
+
+[Data Engineering Nanodegree Projects](images/UdacityDEND-powerpoint.pdf)
+<img src="images/bandicam 2021-02-12 19-00-09-410.jpg"/>
+
+---
+
 ### Sales profit forecasting with Prophet model
 The objective of this project is to determine the ‘health’ of all 3 product categories in this dataset. We want to understand and capture trends & seasonality, but also predict profits for each category for the next couple years. While doing so, I will explore some of the best models and statistical methods to work with and make predictions with time-series data.
 
@@ -32,17 +41,6 @@ These are the question I was trying to address when exploring the bike share dat
 
 [Bike Share Dashboard Exploring Rental Demographics with Tableau](images/BikeshareDash.pdf)
 <img src="images/bandicam 2021-02-06 16-05-27-005.jpg"/>
-
-
----
-
-### Udacity Data Engineering Nanodegree Projects with AWS, Spark & Airflow
-This is a collection of projects that were part of the Udacity Data Engineering Nanodegree program. These projects are completed in relation to a mock start-up called ‘Sparkify’. Sparkify is a music streaming application that wants to start analyzing their songs, song plays and user data. So using modern data engineering tools I built 4 projects to assist Sparkify in accomplishing it’s goals.
-
-
-[Data Engineering Nanodegree Projects](images/UdacityDEND-powerpoint.pdf)
-<img src="images/bandicam 2021-02-12 19-00-09-410.jpg"/>
-
 
 ---
 

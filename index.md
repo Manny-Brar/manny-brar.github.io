@@ -19,10 +19,10 @@ This is a collection of projects that were part of the Udacity Data Engineering 
 
 ---
 
-### Sales profit forecasting with Prophet model
+### Time Series Profit Forecasting Models with GCP
 The objective of this project is to determine the ‘health’ of all 3 product categories in this dataset. We want to understand and capture trends & seasonality, but also predict profits for each category for the next couple years. While doing so, I will explore some of the best models and statistical methods to work with and make predictions with time-series data.
 
-[Sales Profit Predictions with Prophet](images/Superstore_ML.pdf)
+[Sales Profit Forecasting with GCP](images/Superstore_ML.pdf)
 <img src="images/bandicam 2021-02-06 15-59-19-940.jpg"/>
 
 ---

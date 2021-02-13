@@ -27,7 +27,7 @@ The objective of this project is to determine the ‘health’ of all 3 product 
 
 ---
 
-### Web Scraping F1 race results and exploring Snowflake
+### Web Scraping F1 Race Results and Exploring Snowflake
 I completed all the web scraping and data cleaning utilizing python and BeautifulSoup within the Jupyter environment and saved the final dataframe as a csv file in a S3 bucket. Next, I connected to the S3 bucket with a Snowflake data warehouse created a database and tables. I utilized SQL to create some visualizations within the Snowflake environment. Finally, I connected my data warehouse to Tableau and created a simple dashboard of my analysis and exploration to be able to visualize my findings in more depth.
 
 [Web Scraping F1 Race results and exploring Snowflake](images/f1_prezi.pdf)

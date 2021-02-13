@@ -36,12 +36,12 @@ These are the question I was trying to address when exploring the bike share dat
 
 ---
 
-### San Francisco Bike Share Rental Demographics Dashboard with Tableau
-Who are the customers? Which Stations are the busiest? What days have the most rentals?
-These are the question I was trying to address when exploring the bike share dataset.
+### Udacity Data Engineering Nanodegree Projects with AWS, Spark & Airflow
+This is a collection of projects that were part of the Udacity Data Engineering Nanodegree program. These projects are completed in relation to a mock start-up called ‘Sparkify’. Sparkify is a music streaming application that wants to start analyzing their songs, song plays and user data. So using modern data engineering tools I built 4 projects to assist Sparkify in accomplishing it’s goals.
 
-[Bike Share Dashboard Exploring Rental Demographics with Tableau](Manny-Brar/Dashboard-SanFran-Bikeshare-Rental-Demographics-Tableau)
-<img src="images/bandicam 2021-02-06 16-05-27-005.jpg"/>
+
+[Data Engineering Nanodegree Projects](Manny-Brar/)
+<img src="images/bandicam 2021-02-12 19-00-09-410.jpg"/>
 
 
 ---

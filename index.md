@@ -43,5 +43,3 @@ These are the question I was trying to address when exploring the bike share dat
 <img src="images/bandicam 2021-02-06 16-05-27-005.jpg"/>
 
 ---
-
-<!-- Remove above link if you don't want to attibute -->

@@ -3,9 +3,9 @@ logo: "/images/profilepic.jpg?raw=true" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
-A determined data analytics professional, with a genuine passion for finding meaningful value within data and building efficient data infrastructure.
+A determined data analytics professional, with a genuine passion for finding meaningful value within data and building efficient data infrastructure
 
- ---
+---
   <a href="https://www.linkedin.com/in/manny-brar-analytics/">LinkedIn</a> 
 
 theme: jekyll-theme-minimal
